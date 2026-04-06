@@ -1,2 +1,0 @@
-# PRECISION-AGRICULTURE-SYSTEM-WITH-MULTI-MODAL-ENVIRONMENTAL-VALIDATION-AND-AI-DRIVEN-DIAGNOSTICS
-Precision agriculture leverages Information and Communication Technology (ICT) to optimize crop yield and resources. This project, Agri-Nigrani, presents a robust, dual-layered IoT architecture comprising an ESP32-CAM (Master) and an Arduino Uno (Slave) to manage both irrigation and perimeter security
